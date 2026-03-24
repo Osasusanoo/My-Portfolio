@@ -53,7 +53,7 @@ export default function GithubProfileCard({prof}) {
           </div>
           <div className="image-content-profile">
             <img
-              src={profileImg}
+              src="https://via.placeholder.com/150"
               alt={prof.name}
               className="profile-image"
             />
