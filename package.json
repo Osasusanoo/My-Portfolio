@@ -1,6 +1,6 @@
 {
-  "homepage": "https://osasusanoo.github.io/Portfolio",
-  "name": "developerfolio",
+  "homepage": "https://osasusanoo.github.io/My-Portfolio",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
