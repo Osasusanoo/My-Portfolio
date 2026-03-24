@@ -53,7 +53,7 @@ export default function GithubProfileCard({prof}) {
           </div>
           <div className="image-content-profile">
             <img
-              src={profileImg}
+              src="https://drive.google.com/file/d/1dnkmxORrphMIhCK_T2KUA2O59A1KHhxb/view?usp=sharing"
               alt={prof.name}
               className="profile-image"
             />
