@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3a130fe4.css",
+    "main.js": "/Portfolio/static/js/main.674c9ccc.js",
+    "static/css/64.bba8fa55.chunk.css": "/Portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Portfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/129.7de658e9.chunk.css": "/Portfolio/static/css/129.7de658e9.chunk.css",
+    "static/js/129.47518891.chunk.js": "/Portfolio/static/js/129.47518891.chunk.js",
+    "static/media/Osasumwen-4.jpg": "/Portfolio/static/media/Osasumwen-4.740c7078ce957527865f.jpg",
+    "static/media/Montserrat-Regular.ttf": "/Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/resume.pdf": "/Portfolio/static/media/resume.c4ccf11cfe588d924344.pdf",
+    "static/media/santa-clara-logo.png": "/Portfolio/static/media/santa-clara-logo.cdfd903acc68d20f03e5.png",
+    "static/media/manOnTable.svg": "/Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/chabot-logo.png": "/Portfolio/static/media/chabot-logo.ad4b87e6781049b7293b.png",
+    "static/media/developerActivity.svg": "/Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/nsf.jpg": "/Portfolio/static/media/nsf.1a5743ca6c8af8902674.jpg",
+    "static/media/skill.svg": "/Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/Portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/Portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/Portfolio/index.html",
+    "static/media/talksCardBack.svg": "/Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.3a130fe4.css.map": "/Portfolio/static/css/main.3a130fe4.css.map",
+    "main.674c9ccc.js.map": "/Portfolio/static/js/main.674c9ccc.js.map",
+    "64.bba8fa55.chunk.css.map": "/Portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Portfolio/static/js/64.56dc6704.chunk.js.map",
+    "129.7de658e9.chunk.css.map": "/Portfolio/static/css/129.7de658e9.chunk.css.map",
+    "129.47518891.chunk.js.map": "/Portfolio/static/js/129.47518891.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a130fe4.css",
+    "static/js/main.674c9ccc.js"
+  ]
+}
